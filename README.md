@@ -28,22 +28,6 @@ Image Storage: BLOB in MySQL (Profile pictures)
 
 ✅ React frontend CORS support
 
-🛠️ Project Structure
-swift
-Copy
-Edit
-authapi/
-├── src/main/java/com/healthcare/authapi/
-│   ├── controller/AuthController.java
-│   ├── entity/User.java
-│   ├── model/LoginRequest.java
-│   ├── repository/UserRepository.java
-│   ├── service/JwtService.java
-│   └── ...
-├── src/main/resources/
-│   └── static/images/default-profile.jpeg
-├── application.properties
-└── ...
 ⚙️ Configuration
 application.properties
 properties
